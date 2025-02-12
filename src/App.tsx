@@ -11,7 +11,7 @@ function App() {
             <div className="relative group">
               <div className="absolute -inset-0.5 bg-gradient-to-r from-blue-500 to-blue-700 rounded-full opacity-75 group-hover:opacity-100 blur animate-pulse"></div>
               <img 
-                src="src\assests\headshot.png" 
+                src="https://github.com/samradhshrma/vercelportfolio/blob/main/src/assests/headshot.png" 
                 alt="Samradh Sharma - Professional headshot" 
                 className="relative w-48 h-48 object-cover rounded-full"
               />
